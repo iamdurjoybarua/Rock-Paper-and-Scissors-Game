@@ -34,4 +34,4 @@ Contributions are welcome! If you have any ideas for improvements or bug fixes, 
 
 ## Author
 
-[Durjoy Barua/https://github.com/iamdurjoybarua]
+Durjoy Barua / https://github.com/iamdurjoybarua
